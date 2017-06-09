@@ -129,12 +129,12 @@ body {
 .backgroundContainer {
   margin: 0 auto;
   width: 1024px;
-  background-image: url(../SVG/starsbackground.SVG);
+  background-image: url(../SVG/StarsBackground.svg);
 }
 
 .headerContainer {
   height: 390px;
-  background-image: url(../SVG/HeaderBackground.SVG);
+  background-image: url(../SVG/HeaderBackground.svg);
 }
 
 
